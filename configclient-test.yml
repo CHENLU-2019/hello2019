@@ -1,2 +1,2 @@
 Imagerserver:
-  port: configclient-test.yml
+  port: 10030
